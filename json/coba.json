@@ -1,0 +1,31 @@
+[
+	{
+		"Nama" : "Zaedan",
+		"Umur" : 20,
+		"nip" : "0430400023",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Dody",
+			"pembimbing2" : "Erik"
+		}
+	},
+
+	{
+		"Nama" : "Zidan",
+		"Umur" : 20,
+		"nip" : "0430400023",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Dody",
+			"pembimbing2" : "Erik"
+		}
+	}
+]
